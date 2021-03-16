@@ -1,1 +1,1 @@
-## Stumbleupon Web Classification
+## StumbleUpon Web Classification
